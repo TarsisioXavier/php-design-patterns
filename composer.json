@@ -1,0 +1,20 @@
+{
+    "name": "tarsisioxavier/php-design-patterns",
+    "description": "Estudo de padrões de projeto",
+    "type": "project",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Tarsísio Xavier",
+            "email": "tarsisiox@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "prs-4": {
+            "App\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
