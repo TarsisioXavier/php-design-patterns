@@ -14,7 +14,10 @@
     "autoload": {
         "psr-4": {
             "App\\": "src/"
-        }
+        },
+        "files": [
+            "src/ClientCode.php"
+        ]
     },
     "minimum-stability": "dev"
 }
